@@ -22,7 +22,7 @@ public class TestMyIdeErrors : MonoBehaviour
     void Start()
     {
         int c = a + b;
-        Debug.Log("a + b = ", 3);
+        Debug.Log("a + b = " + 3);
         Debug.Log(Tag + "- Done");
     }
 
